@@ -43,7 +43,7 @@ salesperson performance, company performance, and sales trends.
 
 ## 📷 Dashboard Preview
 
-![E-Commerce Sales Dashboard](dashboard.png)
+![E-Commerce Sales Dashboard](E-commerce%20Dashbaord.png)
 
 ## 📁 Project File
 
