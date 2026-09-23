@@ -76,6 +76,8 @@ The key results from the Excel dashboard were independently verified using SQL q
 
 ## 📊 Dashboard Preview
 
+![Pizza Sales Dashboard](./pizzasalesdashboard.png)
+
 ---
 
 ## 📁 Project Files
