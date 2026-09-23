@@ -62,13 +62,13 @@ The dashboard was designed to provide an interactive view of overall business pe
 
 ## 🖼️ Dashboard Preview
 
-![Superstore Sales & Profit Dashboard](./superstoredashboardss.png)
+![Superstore Sales & Profit Dashboard](superstoredasboardss.png)
 
 ## 📁 Project Files
 
 - [Power BI Dashboard](superstoredashboard.pbix)
 - [Superstore Dataset](Superstore.xls)
-- [Dashboard Screenshot](./superstoredashboardss.png)
+- [Dashboard Screenshot](superstoredasboardss.png)
 
 ## 💡 Project Outcome
 
